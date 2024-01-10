@@ -134,4 +134,12 @@ sudo service apache2 restart
 ```
 https://{server_ip}
 ```
-![Example Image](https://raw.githubusercontent.com/사용자명/리포지토리명/브랜치/images/example.png)
+![이미지 대체 텍스트](1.jpg)
+
+붉은색 동그라미를 보면 안전하지 않다고 나온다. 적합한 인증기관에서 받은 인증서가 아니기 때문이다.<br>
+하지만 붉은색 네모를 보면 정상적으로 암호화는 되고있다.<br>
+https의 두가지 기능 중 하나는 동작하고 있다. <br>
+1) 안전한 사이트인지는 확인이 불가능하나,
+2) 통신의 암호화는 이루어졌다.
+
+# 끗.
